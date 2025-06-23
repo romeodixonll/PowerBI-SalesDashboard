@@ -46,6 +46,14 @@ Here are a few key insights derived from the dashboard:
 ### 🔹 Top/Bottom 5 Analysis
 ![Top_Bottom 5 Analysis](https://github.com/user-attachments/assets/5553a751-27f7-4ed0-9efe-3e7150acb18b)
 
+### 🔹 Comparison Sales_Profit_Quantity
+![Comparison Sales_Profit_Quantity](https://github.com/user-attachments/assets/b1a9dd69-b37c-4659-a391-023909ff90da)
+
+### 🔹 Edit Interactions
+![Edit Interactions](https://github.com/user-attachments/assets/7cd20901-a341-4fdf-83f5-731c718f1f18)
+
+### 🔹 Table Visual
+![Table Visual](https://github.com/user-attachments/assets/42613721-0e23-4271-88c4-aa0baca7fb28)
 
 ---
 
@@ -64,8 +72,6 @@ Here are a few key insights derived from the dashboard:
 📫 Email: romeodixonll@yahoo.com
 
 ---
-
---
 
 ## 📝 License
 
